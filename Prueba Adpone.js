@@ -6,7 +6,3 @@ const consecutiveLetters = (string) => {
     return [letter.charAt(0), letter.length];
   });
 }
-
-
-const string = "aaaabbbbbcca"
-console.log(adpone(string))
