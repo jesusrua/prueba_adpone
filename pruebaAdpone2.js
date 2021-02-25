@@ -2,7 +2,7 @@
 
 const countConsecutives = (string)=>{
   
-    const result = []
+    const result = ["", 1]
     const finalResult = []
 
   for (let i = 0; i < string.length; i++ ) {
